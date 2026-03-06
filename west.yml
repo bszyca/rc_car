@@ -1,0 +1,11 @@
+manifest:
+  version: "0.13"
+
+  projects:
+    - name: zephyr
+      url: https://github.com/zephyrproject-rtos/zephyr
+      revision: v4.2.0
+      import: true
+
+  self:
+    path: rc_car

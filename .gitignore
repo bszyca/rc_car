@@ -1,0 +1,11 @@
+# Zephyr build
+build/
+
+# compiled objects
+*.o
+*.elf
+*.bin
+*.hex
+
+# editor
+.vscode/
